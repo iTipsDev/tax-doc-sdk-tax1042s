@@ -1,0 +1,212 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "52-753-2185",
+  "taxFormId" : "7330976",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0485446",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kling, King and Gorczany"
+    },
+    "address" : {
+      "line1" : "2808 Julee Trace",
+      "city" : "South Cari",
+      "region" : "UT",
+      "postalCode" : "15253"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "henry.raynor@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-26-6791",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Brittani",
+      "last" : "Klein"
+    },
+    "address" : {
+      "line1" : "4907 Schmidt Park",
+      "city" : "Jenellbury",
+      "region" : "CA",
+      "postalCode" : "91416"
+    },
+    "email" : "wendolyn.orn@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "formId" : "formId",
+  "amended" : true,
+  "amendmentNumber" : 200,
+  "incomeTypeCode" : "incomeTypeCode",
+  "grossIncome" : 300,
+  "chapterIndicator" : "chapterIndicator",
+  "ch3ExemptionCode" : "ch3ExemptionCode",
+  "ch3TaxRate" : 400.0,
+  "ch4ExemptionCode" : "ch4ExemptionCode",
+  "ch4TaxRate" : 500.0,
+  "withholdingAllowance" : 600,
+  "netIncome" : 700,
+  "federalTaxWithheld" : 800,
+  "escrowProceduresApplied" : true,
+  "subsequentYear" : true,
+  "revisedReporting" : true,
+  "otherAgentsTaxWithheld" : 900,
+  "recipientRepaidAmount" : 1000,
+  "totalTaxWithholdingCredit" : 1100,
+  "withholdingAgentTaxPaid" : 1200,
+  "withholdingAgent" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Georgiana",
+      "last" : "Kuphal"
+    },
+    "businessName" : {
+      "name1" : "Durgan Inc"
+    },
+    "address" : {
+      "line1" : "552 Pa Trail",
+      "city" : "South Denny",
+      "region" : "WY",
+      "postalCode" : "83174"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "form1042Recipient" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Buck",
+      "last" : "Fritsch"
+    },
+    "businessName" : {
+      "name1" : "Welch LLC"
+    },
+    "address" : {
+      "line1" : "1352 Harrison Tunnel",
+      "city" : "Richelleborough",
+      "region" : "MI",
+      "postalCode" : "16105"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin",
+    "lobCode" : "lobCode",
+    "dateOfBirth" : "2025-04-08"
+  },
+  "accountNumber" : "017-98563-6",
+  "primary" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Abdul",
+      "last" : "Breitenberg"
+    },
+    "businessName" : {
+      "name1" : "Graham and Sons"
+    },
+    "address" : {
+      "line1" : "1277 Pouros Hills",
+      "city" : "Baileyville",
+      "region" : "SD",
+      "postalCode" : "72998"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "prorataBasisReporting" : true,
+  "intermediary" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Rosy",
+      "last" : "Kirlin"
+    },
+    "businessName" : {
+      "name1" : "Mayer-Sawayn"
+    },
+    "address" : {
+      "line1" : "5045 Mechelle Dam",
+      "city" : "Americashire",
+      "region" : "ID",
+      "postalCode" : "92108"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "payer" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Bernice",
+      "last" : "Schimmel"
+    },
+    "businessName" : {
+      "name1" : "McClure LLC"
+    },
+    "address" : {
+      "line1" : "33097 Hansen Route",
+      "city" : "Port Danaview",
+      "region" : "CA",
+      "postalCode" : "36492"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1300,
+      "taxId" : "21-829146",
+      "income" : 1400
+    },
+    "local" : {
+      "taxWithheld" : 1500,
+      "localityName" : "East Garret",
+      "income" : 1600
+    }
+  }
+}
