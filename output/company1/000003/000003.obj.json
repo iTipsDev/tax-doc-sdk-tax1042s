@@ -1,0 +1,212 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "22-295-5181",
+  "taxFormId" : "9104253",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0485446",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kling, King and Gorczany"
+    },
+    "address" : {
+      "line1" : "2808 Julee Trace",
+      "city" : "South Cari",
+      "region" : "UT",
+      "postalCode" : "15253"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "henry.raynor@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-97-1825",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Cathey",
+      "last" : "Stoltenberg"
+    },
+    "address" : {
+      "line1" : "325 Hilton View",
+      "city" : "Goyettechester",
+      "region" : "IN",
+      "postalCode" : "64705"
+    },
+    "email" : "thanh.dibbert@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "formId" : "formId",
+  "amended" : true,
+  "amendmentNumber" : 200,
+  "incomeTypeCode" : "incomeTypeCode",
+  "grossIncome" : 300,
+  "chapterIndicator" : "chapterIndicator",
+  "ch3ExemptionCode" : "ch3ExemptionCode",
+  "ch3TaxRate" : 400.0,
+  "ch4ExemptionCode" : "ch4ExemptionCode",
+  "ch4TaxRate" : 500.0,
+  "withholdingAllowance" : 600,
+  "netIncome" : 700,
+  "federalTaxWithheld" : 800,
+  "escrowProceduresApplied" : true,
+  "subsequentYear" : true,
+  "revisedReporting" : true,
+  "otherAgentsTaxWithheld" : 900,
+  "recipientRepaidAmount" : 1000,
+  "totalTaxWithholdingCredit" : 1100,
+  "withholdingAgentTaxPaid" : 1200,
+  "withholdingAgent" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Ernest",
+      "last" : "Towne"
+    },
+    "businessName" : {
+      "name1" : "Donnelly-Halvorson"
+    },
+    "address" : {
+      "line1" : "380 Bradtke Trafficway",
+      "city" : "South Augustinastad",
+      "region" : "SC",
+      "postalCode" : "36422"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "form1042Recipient" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Willian",
+      "last" : "Langworth"
+    },
+    "businessName" : {
+      "name1" : "Wuckert-Gislason"
+    },
+    "address" : {
+      "line1" : "35862 Emmerich Inlet",
+      "city" : "Port Horacioberg",
+      "region" : "HI",
+      "postalCode" : "53694"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin",
+    "lobCode" : "lobCode",
+    "dateOfBirth" : "2025-06-18"
+  },
+  "accountNumber" : "160-54293-1",
+  "primary" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Ed",
+      "last" : "Padberg"
+    },
+    "businessName" : {
+      "name1" : "Bergnaum Group"
+    },
+    "address" : {
+      "line1" : "19108 Langworth Underpass",
+      "city" : "Port Hermelinda",
+      "region" : "MA",
+      "postalCode" : "42988"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "prorataBasisReporting" : true,
+  "intermediary" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Eldridge",
+      "last" : "Windler"
+    },
+    "businessName" : {
+      "name1" : "Jacobi Inc"
+    },
+    "address" : {
+      "line1" : "62507 Buster Loaf",
+      "city" : "West Mitchchester",
+      "region" : "WI",
+      "postalCode" : "12532"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "payer" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Vaughn",
+      "last" : "Okuneva"
+    },
+    "businessName" : {
+      "name1" : "Lehner Inc"
+    },
+    "address" : {
+      "line1" : "2469 Bradford Court",
+      "city" : "Elenafurt",
+      "region" : "NM",
+      "postalCode" : "82580"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1300,
+      "taxId" : "33-980866",
+      "income" : 1400
+    },
+    "local" : {
+      "taxWithheld" : 1500,
+      "localityName" : "Jaredberg",
+      "income" : 1600
+    }
+  }
+}

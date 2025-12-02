@@ -1,0 +1,212 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "66-566-5186",
+  "taxFormId" : "7696846",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0485446",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kling, King and Gorczany"
+    },
+    "address" : {
+      "line1" : "2808 Julee Trace",
+      "city" : "South Cari",
+      "region" : "UT",
+      "postalCode" : "15253"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "henry.raynor@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-78-0627",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Lillie",
+      "last" : "Ziemann"
+    },
+    "address" : {
+      "line1" : "894 Edwin Via",
+      "city" : "Lake Davinaburgh",
+      "region" : "CT",
+      "postalCode" : "73735"
+    },
+    "email" : "refugio.brakus@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "formId" : "formId",
+  "amended" : true,
+  "amendmentNumber" : 200,
+  "incomeTypeCode" : "incomeTypeCode",
+  "grossIncome" : 300,
+  "chapterIndicator" : "chapterIndicator",
+  "ch3ExemptionCode" : "ch3ExemptionCode",
+  "ch3TaxRate" : 400.0,
+  "ch4ExemptionCode" : "ch4ExemptionCode",
+  "ch4TaxRate" : 500.0,
+  "withholdingAllowance" : 600,
+  "netIncome" : 700,
+  "federalTaxWithheld" : 800,
+  "escrowProceduresApplied" : true,
+  "subsequentYear" : true,
+  "revisedReporting" : true,
+  "otherAgentsTaxWithheld" : 900,
+  "recipientRepaidAmount" : 1000,
+  "totalTaxWithholdingCredit" : 1100,
+  "withholdingAgentTaxPaid" : 1200,
+  "withholdingAgent" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Patricia",
+      "last" : "Wiza"
+    },
+    "businessName" : {
+      "name1" : "Strosin, Dach and Bauch"
+    },
+    "address" : {
+      "line1" : "668 Johnston Unions",
+      "city" : "Dickinsonport",
+      "region" : "VT",
+      "postalCode" : "15117"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "form1042Recipient" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Hester",
+      "last" : "Batz"
+    },
+    "businessName" : {
+      "name1" : "Schulist, Pollich and Kessler"
+    },
+    "address" : {
+      "line1" : "7577 Fritsch Walk",
+      "city" : "Purdyfurt",
+      "region" : "OR",
+      "postalCode" : "76819"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin",
+    "lobCode" : "lobCode",
+    "dateOfBirth" : "2025-07-21"
+  },
+  "accountNumber" : "782-19640-6",
+  "primary" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Alexandria",
+      "last" : "Mayer"
+    },
+    "businessName" : {
+      "name1" : "Rath, Beier and Gerlach"
+    },
+    "address" : {
+      "line1" : "4142 Hegmann Spring",
+      "city" : "New Alexiabury",
+      "region" : "MN",
+      "postalCode" : "50747"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "prorataBasisReporting" : true,
+  "intermediary" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Dawne",
+      "last" : "Orn"
+    },
+    "businessName" : {
+      "name1" : "Batz and Sons"
+    },
+    "address" : {
+      "line1" : "41691 Colby Route",
+      "city" : "Sipeston",
+      "region" : "OR",
+      "postalCode" : "13577"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "payer" : {
+    "tin" : "tin",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Carter",
+      "last" : "Haag"
+    },
+    "businessName" : {
+      "name1" : "McGlynn, Little and Kulas"
+    },
+    "address" : {
+      "line1" : "276 Sipes Canyon",
+      "city" : "New Filibertobury",
+      "region" : "OR",
+      "postalCode" : "02143"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "ch3StatusCode",
+    "ch4StatusCode" : "ch4StatusCode",
+    "giin" : "giin",
+    "foreignTin" : "foreignTin"
+  },
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1300,
+      "taxId" : "63-923056",
+      "income" : 1400
+    },
+    "local" : {
+      "taxWithheld" : 1500,
+      "localityName" : "Robbyside",
+      "income" : 1600
+    }
+  }
+}
