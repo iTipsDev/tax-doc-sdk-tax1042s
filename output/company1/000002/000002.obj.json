@@ -1,0 +1,238 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "24-026-1068",
+  "taxFormId" : "7166341",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0633392",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Smitham and Sons"
+    },
+    "address" : {
+      "line1" : "42933 Shanahan Avenue",
+      "city" : "Thielmouth",
+      "region" : "NH",
+      "postalCode" : "95587",
+      "unitType" : "Apt",
+      "unitNumber" : "004"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rhiannon.smith@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-69-3295",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Oralee",
+      "middle" : "Brad",
+      "last" : "Cartwright"
+    },
+    "businessName" : {
+      "name1" : "Kris-Schultz"
+    },
+    "address" : {
+      "line1" : "725 Art Mill",
+      "city" : "Reynoldsview",
+      "region" : "ND",
+      "postalCode" : "81624",
+      "unitType" : "Apt",
+      "unitNumber" : "930"
+    },
+    "email" : "terrence.krajcik@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "formId" : "formId",
+  "amended" : true,
+  "amendmentNumber" : 200,
+  "incomeTypeCode" : "incomeTypeCode",
+  "grossIncome" : 300,
+  "chapterIndicator" : "chapterIndicator",
+  "ch3ExemptionCode" : "03",
+  "ch3TaxRate" : 400.0,
+  "ch4ExemptionCode" : "04",
+  "ch4TaxRate" : 500.0,
+  "withholdingAllowance" : 600,
+  "netIncome" : 700,
+  "federalTaxWithheld" : 800,
+  "escrowProceduresApplied" : true,
+  "subsequentYear" : true,
+  "revisedReporting" : true,
+  "otherAgentsTaxWithheld" : 900,
+  "recipientRepaidAmount" : 1000,
+  "totalTaxWithholdingCredit" : 1100,
+  "withholdingAgentTaxPaid" : 1200,
+  "withholdingAgent" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Shawn",
+      "middle" : "Tempie",
+      "last" : "Schimmel"
+    },
+    "businessName" : {
+      "name1" : "Schulist-Cole"
+    },
+    "address" : {
+      "line1" : "0317 Charlie Neck",
+      "city" : "North Ali",
+      "region" : "SD",
+      "postalCode" : "46188",
+      "unitType" : "Apt",
+      "unitNumber" : "570"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "withholdingAgentCountry" : "withholdingAgentCountry",
+  "form1042Recipient" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Dionna",
+      "middle" : "Diann",
+      "last" : "Kuphal"
+    },
+    "businessName" : {
+      "name1" : "Larkin-Balistreri"
+    },
+    "address" : {
+      "line1" : "77004 Mueller Tunnel",
+      "city" : "Porshashire",
+      "region" : "AZ",
+      "postalCode" : "80289",
+      "unitType" : "Apt",
+      "unitNumber" : "118"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210",
+    "lobCode" : "A",
+    "dateOfBirth" : "2026-04-19"
+  },
+  "recipientCountry" : "recipientCountry",
+  "accountNumber" : "696-30799-2",
+  "primary" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Morgan",
+      "middle" : "Otto",
+      "last" : "Osinski"
+    },
+    "businessName" : {
+      "name1" : "Ziemann-Beatty"
+    },
+    "address" : {
+      "line1" : "55447 Janita Drive",
+      "city" : "New Ngocbury",
+      "region" : "GA",
+      "postalCode" : "26676",
+      "unitType" : "Apt",
+      "unitNumber" : "665"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "prorataBasisReporting" : true,
+  "intermediary" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Katheryn",
+      "middle" : "Art",
+      "last" : "Wintheiser"
+    },
+    "businessName" : {
+      "name1" : "Goldner LLC"
+    },
+    "address" : {
+      "line1" : "20339 Conroy Green",
+      "city" : "New Krystynaside",
+      "region" : "FL",
+      "postalCode" : "65028",
+      "unitType" : "Apt",
+      "unitNumber" : "356"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "intermediaryCountry" : "intermediaryCountry",
+  "payer" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Ines",
+      "middle" : "Antonia",
+      "last" : "Graham"
+    },
+    "businessName" : {
+      "name1" : "Connelly and Sons"
+    },
+    "address" : {
+      "line1" : "174 Tremblay Motorway",
+      "city" : "Krisport",
+      "region" : "SC",
+      "postalCode" : "68065",
+      "unitType" : "Apt",
+      "unitNumber" : "389"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1300,
+      "taxId" : "87-002644",
+      "income" : 1400
+    },
+    "local" : {
+      "taxWithheld" : 1500,
+      "localityName" : "Irinaborough",
+      "income" : 1600
+    }
+  }
+}

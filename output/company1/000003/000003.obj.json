@@ -1,0 +1,238 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "25-882-7522",
+  "taxFormId" : "1662783",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0633392",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Smitham and Sons"
+    },
+    "address" : {
+      "line1" : "42933 Shanahan Avenue",
+      "city" : "Thielmouth",
+      "region" : "NH",
+      "postalCode" : "95587",
+      "unitType" : "Apt",
+      "unitNumber" : "004"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rhiannon.smith@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-29-6256",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Deena",
+      "middle" : "Brett",
+      "last" : "Rippin"
+    },
+    "businessName" : {
+      "name1" : "Haley Inc"
+    },
+    "address" : {
+      "line1" : "28404 Gerhold Tunnel",
+      "city" : "East Arnulfo",
+      "region" : "SC",
+      "postalCode" : "70241",
+      "unitType" : "Apt",
+      "unitNumber" : "388"
+    },
+    "email" : "alix.stokes@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "formId" : "formId",
+  "amended" : true,
+  "amendmentNumber" : 200,
+  "incomeTypeCode" : "incomeTypeCode",
+  "grossIncome" : 300,
+  "chapterIndicator" : "chapterIndicator",
+  "ch3ExemptionCode" : "03",
+  "ch3TaxRate" : 400.0,
+  "ch4ExemptionCode" : "04",
+  "ch4TaxRate" : 500.0,
+  "withholdingAllowance" : 600,
+  "netIncome" : 700,
+  "federalTaxWithheld" : 800,
+  "escrowProceduresApplied" : true,
+  "subsequentYear" : true,
+  "revisedReporting" : true,
+  "otherAgentsTaxWithheld" : 900,
+  "recipientRepaidAmount" : 1000,
+  "totalTaxWithholdingCredit" : 1100,
+  "withholdingAgentTaxPaid" : 1200,
+  "withholdingAgent" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Lazaro",
+      "middle" : "Glendora",
+      "last" : "Keebler"
+    },
+    "businessName" : {
+      "name1" : "Mann-Runolfsdottir"
+    },
+    "address" : {
+      "line1" : "72771 Schuster Islands",
+      "city" : "Morissetteshire",
+      "region" : "WA",
+      "postalCode" : "01367",
+      "unitType" : "Apt",
+      "unitNumber" : "737"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "withholdingAgentCountry" : "withholdingAgentCountry",
+  "form1042Recipient" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Gerard",
+      "middle" : "Hugo",
+      "last" : "Heaney"
+    },
+    "businessName" : {
+      "name1" : "Rolfson LLC"
+    },
+    "address" : {
+      "line1" : "28157 Thomas Place",
+      "city" : "Aleishahaven",
+      "region" : "TX",
+      "postalCode" : "24301",
+      "unitType" : "Apt",
+      "unitNumber" : "911"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210",
+    "lobCode" : "A",
+    "dateOfBirth" : "2026-07-25"
+  },
+  "recipientCountry" : "recipientCountry",
+  "accountNumber" : "160-13574-9",
+  "primary" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Vincenza",
+      "middle" : "Rich",
+      "last" : "Harvey"
+    },
+    "businessName" : {
+      "name1" : "Kshlerin, Schulist and Sawayn"
+    },
+    "address" : {
+      "line1" : "605 Oren Underpass",
+      "city" : "Lake Ines",
+      "region" : "WV",
+      "postalCode" : "92674",
+      "unitType" : "Apt",
+      "unitNumber" : "864"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "prorataBasisReporting" : true,
+  "intermediary" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Leonardo",
+      "middle" : "Shantell",
+      "last" : "Rath"
+    },
+    "businessName" : {
+      "name1" : "Padberg, Steuber and Hessel"
+    },
+    "address" : {
+      "line1" : "90196 Gleichner Wells",
+      "city" : "North Jeff",
+      "region" : "RI",
+      "postalCode" : "23080",
+      "unitType" : "Apt",
+      "unitNumber" : "281"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "intermediaryCountry" : "intermediaryCountry",
+  "payer" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Margurite",
+      "middle" : "Fredric",
+      "last" : "Dach"
+    },
+    "businessName" : {
+      "name1" : "Mante, Dickens and Bogan"
+    },
+    "address" : {
+      "line1" : "642 Mirtha Keys",
+      "city" : "Heathfort",
+      "region" : "CO",
+      "postalCode" : "16989",
+      "unitType" : "Apt",
+      "unitNumber" : "202"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1300,
+      "taxId" : "90-305651",
+      "income" : 1400
+    },
+    "local" : {
+      "taxWithheld" : 1500,
+      "localityName" : "West Bryan",
+      "income" : 1600
+    }
+  }
+}

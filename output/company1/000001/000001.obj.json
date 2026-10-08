@@ -1,0 +1,238 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "05-294-2691",
+  "taxFormId" : "6057521",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0633392",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Smitham and Sons"
+    },
+    "address" : {
+      "line1" : "42933 Shanahan Avenue",
+      "city" : "Thielmouth",
+      "region" : "NH",
+      "postalCode" : "95587",
+      "unitType" : "Apt",
+      "unitNumber" : "004"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rhiannon.smith@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-77-0670",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Olivia",
+      "middle" : "Marcell",
+      "last" : "Cassin"
+    },
+    "businessName" : {
+      "name1" : "Hoppe-Reilly"
+    },
+    "address" : {
+      "line1" : "296 Tammera Springs",
+      "city" : "South Jeraldbury",
+      "region" : "IL",
+      "postalCode" : "49464",
+      "unitType" : "Apt",
+      "unitNumber" : "041"
+    },
+    "email" : "wilburn.borer@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "formId" : "formId",
+  "amended" : true,
+  "amendmentNumber" : 200,
+  "incomeTypeCode" : "incomeTypeCode",
+  "grossIncome" : 300,
+  "chapterIndicator" : "chapterIndicator",
+  "ch3ExemptionCode" : "03",
+  "ch3TaxRate" : 400.0,
+  "ch4ExemptionCode" : "04",
+  "ch4TaxRate" : 500.0,
+  "withholdingAllowance" : 600,
+  "netIncome" : 700,
+  "federalTaxWithheld" : 800,
+  "escrowProceduresApplied" : true,
+  "subsequentYear" : true,
+  "revisedReporting" : true,
+  "otherAgentsTaxWithheld" : 900,
+  "recipientRepaidAmount" : 1000,
+  "totalTaxWithholdingCredit" : 1100,
+  "withholdingAgentTaxPaid" : 1200,
+  "withholdingAgent" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Marlene",
+      "middle" : "Arianna",
+      "last" : "Heidenreich"
+    },
+    "businessName" : {
+      "name1" : "Sipes and Sons"
+    },
+    "address" : {
+      "line1" : "3827 Vandervort Fort",
+      "city" : "McKenzieville",
+      "region" : "AL",
+      "postalCode" : "97620",
+      "unitType" : "Apt",
+      "unitNumber" : "396"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "withholdingAgentCountry" : "withholdingAgentCountry",
+  "form1042Recipient" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Sunshine",
+      "middle" : "Izola",
+      "last" : "Treutel"
+    },
+    "businessName" : {
+      "name1" : "Schmeler Group"
+    },
+    "address" : {
+      "line1" : "400 Carl Flat",
+      "city" : "Hilpertborough",
+      "region" : "NM",
+      "postalCode" : "54359",
+      "unitType" : "Apt",
+      "unitNumber" : "484"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210",
+    "lobCode" : "A",
+    "dateOfBirth" : "2026-09-14"
+  },
+  "recipientCountry" : "recipientCountry",
+  "accountNumber" : "320-41660-4",
+  "primary" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Phylis",
+      "middle" : "Corrie",
+      "last" : "Rodriguez"
+    },
+    "businessName" : {
+      "name1" : "Reichel-Borer"
+    },
+    "address" : {
+      "line1" : "77379 Haley Isle",
+      "city" : "Port Youngborough",
+      "region" : "TN",
+      "postalCode" : "64054",
+      "unitType" : "Apt",
+      "unitNumber" : "342"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "prorataBasisReporting" : true,
+  "intermediary" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Branden",
+      "middle" : "Jon",
+      "last" : "Mayer"
+    },
+    "businessName" : {
+      "name1" : "Prohaska-Stiedemann"
+    },
+    "address" : {
+      "line1" : "71068 Friesen Fort",
+      "city" : "Crooksland",
+      "region" : "NM",
+      "postalCode" : "67816",
+      "unitType" : "Apt",
+      "unitNumber" : "923"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "intermediaryCountry" : "intermediaryCountry",
+  "payer" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Armand",
+      "middle" : "Daniel",
+      "last" : "Abbott"
+    },
+    "businessName" : {
+      "name1" : "Goodwin and Sons"
+    },
+    "address" : {
+      "line1" : "62867 Porter Bridge",
+      "city" : "Haagfort",
+      "region" : "NY",
+      "postalCode" : "78636",
+      "unitType" : "Apt",
+      "unitNumber" : "022"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email",
+    "ch3StatusCode" : "03",
+    "ch4StatusCode" : "04",
+    "giin" : "9998887776",
+    "foreignTin" : "987653210"
+  },
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1300,
+      "taxId" : "68-003658",
+      "income" : 1400
+    },
+    "local" : {
+      "taxWithheld" : 1500,
+      "localityName" : "Juanaberg",
+      "income" : 1600
+    }
+  }
+}
